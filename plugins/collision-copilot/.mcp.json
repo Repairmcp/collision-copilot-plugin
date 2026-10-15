@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "Collision CoPilot": {
+      "type": "http",
+      "url": "https://collision-copilot.bainbridgeai.ai/mcp"
+    }
+  }
+}

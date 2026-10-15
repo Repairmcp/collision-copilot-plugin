@@ -1,0 +1,20 @@
+Collision CoPilot plugin for Claude
+Copyright 2026 BainbridgeAI LLC, Seattle, Washington. All rights reserved.
+
+BainbridgeAI LLC publishes this plugin (the manifest, the connector configuration, the skill
+text, the README and this file) so that a shop with a Collision CoPilot subscription can install
+Collision CoPilot in its AI assistant.
+
+Permission is granted to install and use this plugin, unmodified, with a Collision CoPilot
+subscription and subject to the Collision CoPilot Terms of Service at
+https://collision-copilot.bainbridgeai.ai/terms. No other right is granted. You may not modify,
+redistribute, sell or sublicense this plugin, or use its contents to build, train or describe a
+competing product or service.
+
+The Collision CoPilot service this plugin connects to, the BainbridgeAI collision playbooks, and
+the reference collections served through it are separate works owned or licensed by
+BainbridgeAI LLC. They are not part of this plugin and nothing in this file licenses them.
+
+THIS PLUGIN IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+Collision CoPilot is an independent BainbridgeAI product and is
+not affiliated with or endorsed by Microsoft.
