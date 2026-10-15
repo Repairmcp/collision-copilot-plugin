@@ -1,11 +1,24 @@
 {
   "name": "collision-copilot",
   "displayName": "Collision CoPilot",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Collision repair research for your shop: BainbridgeAI playbooks, DEG inquiries, NHTSA recalls, federal law and your home-state law, with citations. Connect the Collision CoPilot server on this plugin's Connectors tab and sign in with your CoPilot email.",
   "author": {
     "name": "BainbridgeAI",
     "url": "https://collisioncopilot.com"
   },
-  "license": "Proprietary"
+  "homepage": "https://collisioncopilot.com",
+  "repository": "https://github.com/Repairmcp/collision-copilot-plugin",
+  "license": "Proprietary",
+  "keywords": [
+    "collision repair",
+    "auto body",
+    "estimating",
+    "supplements",
+    "insurance claims"
+  ],
+  "icon": "./icon.png",
+  "documentationUrl": "https://github.com/Repairmcp/collision-copilot-plugin#readme",
+  "privacyPolicyUrl": "https://collision-copilot.bainbridgeai.ai/privacy",
+  "termsOfServiceUrl": "https://collision-copilot.bainbridgeai.ai/terms"
 }
