@@ -1,6 +1,6 @@
 # Collision CoPilot
 
-Collision repair research for a subscribing shop, inside Claude: BainbridgeAI's collision playbooks (the shop's method for estimating, supplements, insurer disputes, repairs and running the shop), DEG inquiries, NHTSA recalls and complaints, federal law, and the shop's home-state law, every answer with citations the shop can open.
+Collision repair research for a subscribing shop, inside Claude: BainbridgeAI's collision playbooks (the shop's method for estimating, supplements, insurer disputes, repairs and running the shop), DEG inquiries, NHTSA recalls and complaints, selected OEM owner's manual passages, federal law, and the shop's home-state law, every answer with citations the shop can open.
 
 ## Use it
 

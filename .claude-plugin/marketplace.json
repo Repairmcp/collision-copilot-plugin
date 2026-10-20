@@ -6,12 +6,12 @@
     "url": "https://collisioncopilot.com"
   },
   "description": "Collision CoPilot: collision repair research for a subscribing shop, inside Claude.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "plugins": [
     {
       "name": "collision-copilot",
       "source": "./plugins/collision-copilot",
-      "description": "Collision repair research for your shop: BainbridgeAI playbooks, DEG inquiries, NHTSA recalls, federal law and your home-state law, with citations. Connect the Collision CoPilot server on this plugin's Connectors tab and sign in with your CoPilot email.",
+      "description": "Collision repair research for your shop: BainbridgeAI playbooks, DEG inquiries, NHTSA recalls, OEM owner's manual passages, federal law and your home-state law, with citations. Connect the Collision CoPilot server on this plugin's Connectors tab and sign in with your CoPilot email.",
       "category": "productivity",
       "tags": [
         "collision repair",

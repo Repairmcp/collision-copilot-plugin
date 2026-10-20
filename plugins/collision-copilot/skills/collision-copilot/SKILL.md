@@ -20,9 +20,10 @@ returns, and never invent a number, an inquiry id, or a statute.
 | `deg_*` | Database Enhancement Gateway inquiries (22,000 plus) | Labor time disputes, "not included" operations, blend and refinish allowances, any "the estimating system says X hours" argument |
 | `nhtsa_*` | NHTSA recalls, complaints, VIN decode, 49 U.S.C. ch. 301 | Recall checks by VIN, complaint patterns, federal safety-defect law |
 | `fed_*` | Federal law: CFR and U.S.C. | Booth and respirator rules (29 CFR 1910), refinish VOC limits (40 CFR 59), wage and hour floors, McCarran-Ferguson |
+| `oem_manual_*` | OEM owner's manuals and emergency response guides: exact short quotes with the link, for the vehicles each passage lists | What the owner's manual says must be replaced or inspected after a crash (airbags, seat belt tensioners), towing and transport, damaged hybrid handling. Confirm year, model and powertrain; relay any verification notice |
 | `wa_*`, `tx_*`, `ca_*`, ... | The shop's enabled state(s): insurance claims practices, auto repair law, safety, employment | Steering, OEM parts, total loss, labor rate, storage, bad faith, mechanic's liens, final pay |
 | `copilot_account` | The shop's account | Current access, covered states and account/billing links |
-| `search`, `fetch` | Playbook sections first, then DEG (ChatGPT's connector contract) | ChatGPT deep research; prefer `playbook_*` and `deg_*` when you have them |
+| `search`, `fetch` | Playbook sections first, then DEG, with owner's manual passages (`oem:` ids) when the question names a covered vehicle (ChatGPT's connector contract) | ChatGPT deep research; prefer `playbook_*`, `deg_*` and `oem_manual_*` when you have them |
 
 Only the shop's enabled states appear in the tool list. If a needed state
 is missing, call `copilot_account` and report the coverage it returns. Follow

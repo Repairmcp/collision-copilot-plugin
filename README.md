@@ -1,6 +1,6 @@
 # Collision CoPilot for Claude
 
-The Claude plugin for Collision CoPilot, BainbridgeAI's collision repair research connector: the BainbridgeAI collision playbooks, DEG inquiries, NHTSA recalls and complaints, federal law and the shop's home-state law, every answer with citations the shop can open. The plugin is free to install. Using it requires a paid Collision CoPilot shop subscription and a named-user seat: https://collisioncopilot.com/
+The Claude plugin for Collision CoPilot, BainbridgeAI's collision repair research connector: the BainbridgeAI collision playbooks, DEG inquiries, NHTSA recalls and complaints, selected OEM owner's manual passages, federal law and the shop's home-state law, every answer with citations the shop can open. The plugin is free to install. Using it requires a paid Collision CoPilot shop subscription and a named-user seat: https://collisioncopilot.com/
 
 ## Install in Claude
 
