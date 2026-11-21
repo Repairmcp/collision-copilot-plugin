@@ -1,7 +1,7 @@
 {
   "name": "collision-copilot",
   "displayName": "Collision CoPilot",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Collision repair research for your shop: BainbridgeAI playbooks, DEG inquiries, NHTSA recalls, OEM owner's manual passages, federal law and your home-state law, with citations. Connect the Collision CoPilot server on this plugin's Connectors tab and sign in with your CoPilot email.",
   "author": {
     "name": "BainbridgeAI",
