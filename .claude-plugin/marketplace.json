@@ -6,7 +6,7 @@
     "url": "https://collisioncopilot.com"
   },
   "description": "Collision CoPilot: collision repair research for a subscribing shop, inside Claude.",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "plugins": [
     {
       "name": "collision-copilot",

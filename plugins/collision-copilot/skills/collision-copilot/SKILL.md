@@ -16,7 +16,7 @@ returns, and never invent a number, an inquiry id, or a statute.
 
 | Prefix | Source | Reach for it when |
 | --- | --- | --- |
-| `playbook_*` | BainbridgeAI collision playbooks: the shop's method | How to do, bill, document, argue, or decide something: estimating, supplements, insurer disputes, repairs the OEM way, running the shop, 20 OEM brands |
+| `playbook_*` | BainbridgeAI collision playbooks: the shop's method | How to do, bill, document, argue, or decide something: estimating, supplements, insurer disputes, repairs the OEM way, running the shop, 21 OEM brands |
 | `deg_*` | Database Enhancement Gateway inquiries (22,000 plus) | Labor time disputes, "not included" operations, blend and refinish allowances, any "the estimating system says X hours" argument |
 | `nhtsa_*` | NHTSA recalls, complaints, VIN decode, 49 U.S.C. ch. 301 | Recall checks by VIN, complaint patterns, federal safety-defect law |
 | `fed_*` | Federal law: CFR and U.S.C. | Booth and respirator rules (29 CFR 1910), refinish VOC limits (40 CFR 59), wage and hour floors, McCarran-Ferguson |
